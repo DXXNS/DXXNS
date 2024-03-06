@@ -1,18 +1,23 @@
 
-<h1 align="center">Seas👋, i'm DXXNS</h1>
-<h3 align="center">A young developer from Austria</h3>
+<h1 align="center">Hey there, I'm DXXNS 👋</h1>
+<h3 align="center">A young developer from Austria 🇦🇹</h3>
 
-- ⛏️ I’m rn working on [my Games](https://dxxns.itch.io)
+- ⛏️ Currently working on [my games](https://dxxns.itch.io)
 
-- 🔬 I’m currently learning **Unreal Engine Blueprints**
+- 🔬 Learning the ins and outs of **Unreal Engine Blueprints**
 
-- 💬 Ask me about **pyton, c#**
+- 💬 Ask me about **Python** and **C#**
 
-- 📫 You can reach on my email or discord **suka@pythonblyat.xyz**
+- 📫 Reach me via email or Discord: suka@pythonblyat.xyz
 
-- 🧱 **i like to throw bricks at homeless ppl**
+- 🧱 **Fun Fact:** I like to throw bricks at ppl.
 
-- ❤️ I love playing with **microcontrollers** and **hardware hacking** chips
+- ❤️ Passionate about tinkering with **microcontrollers** and **hardware hacking** chips.
+
+- 🌍 Fluent in English and German.
+
+- ⚙️ Fascinated by electronics and mechanics, always exploring new projects and ideas in these areas.
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXXNS&layout=compact" align="center">
 
 <h3 align="left">Connect with me:</h3>
