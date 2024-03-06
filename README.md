@@ -19,11 +19,11 @@
 - ⚙️ Fascinated by electronics and mechanics, always exploring new projects and ideas in these areas.
 
 - 🎥 Planning to create YouTube videos in the future to help people learn programming and hacking.
-- 
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXXNS&layout=compact" align="center">
 
 
-![DXXNS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DXXNS&show_icons=true&theme=radical)
+![DXXNS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DXXNS&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
