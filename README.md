@@ -1,3 +1,4 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXXNS&layout=compact" align="right">
 <h1 align="center">Seas👋, i'm DXXNS</h1>
 <h3 align="center">A young developer from Austria</h3>
 
