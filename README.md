@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey there, I'm DXXNS 👋</h1>
-<h3 align="center">A young developer from Austria 🇦🇹</h3>
+<h1 align="center">Hey there, I'm Reifensepp 👋</h1>
+<h3 align="center">Austria very nice nice i liv her🗿</h3>
 
 - ⛏️ Aint doing shii got no free time😔
 
