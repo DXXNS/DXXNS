@@ -11,10 +11,7 @@
 - ⚙️ Gear is round fr
 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXXNS&layout=compact" align="center">
 
-
-![DXXNS's GitHub stats](https://github-readme-stats.vercel.app/api?username=DXXNS&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
