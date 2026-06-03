@@ -27,14 +27,3 @@
 
 <h3 align="left">how to support my work 🥰:</h3>
 <p><a href="https://www.buymeacoffee.com/dxxns"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dxxns" /></a></p><br><br>
-
-
-
-
-
-kev
-do da esp32 board link ._.
-
-
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-
