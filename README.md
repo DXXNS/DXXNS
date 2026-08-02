@@ -144,24 +144,5 @@ Fixing them again.
 
 ---
 
-# Current state
-
-```
-learning...
-experimenting...
-building...
-
-status: online
-```
-
----
-
-```
-┌─────────────────────────────┐
-│  curiosity > documentation   │
-│  understanding > memorizing  │
-│  build > consume             │
-└─────────────────────────────┘
-```
 
 `dxxns@localhost:~$ exit`
