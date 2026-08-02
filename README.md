@@ -12,6 +12,8 @@ Always curious about how things break
 
 ## About
 
+If it isn't open source its shit.
+
 I don't just use technology.
 
 I take it apart.
