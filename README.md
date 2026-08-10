@@ -64,40 +64,6 @@ Automation         ✓
 
 ---
 
-# Projects
-
-## 🤖 Autonomous Robot System
-
-Not just a robot.
-
-A collection of sensors, software and hardware working together.
-
-Stack:
-
-```
-Raspberry Pi 5
-ROS2
-LiDAR
-OpenCV
-Python
-Flask
-Embedded Systems
-```
-
----
-
-## 🎮 Multiplayer Systems
-
-Studying real-time communication through game development.
-
-Built with:
-
-```
-Unity
-Photon PUN2
-Photon Voice
-Custom networking logic
-```
 
 Interested in:
 
