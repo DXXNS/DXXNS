@@ -7,7 +7,7 @@
 
 ## Quick Links
 
-[GitHub](https://github.com/dxxns) · [dnSpy](https://github.com/dnSpy/dnSpy/releases/) · [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/)
+[Content Warning Cheat](https://github.com/DXXNS/Content-Warning-Cheat) · [dnSpy](https://github.com/dnSpy/dnSpy/releases/) · [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/)
 
 ---
 
