@@ -1,46 +1,39 @@
 # `dxxns@localhost:~$ whoami`
 
+> Software Developer
+> Systems & infrastructure enthusiast
 
-```
-Software Developer Senior
-Systems enthusiast
-Problem solver
-Always curious about how things break
-```
+---
+
+## Quick Links
+
+[GitHub](https://github.com/dxxns) · [dnSpy](https://github.com/dnSpy/dnSpy/releases/) · [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/)
+
+---
+
+## Direct Downloads
+
+* [Ventoy 1.1.17 — Windows](https://sf-eu-introserv-3.dl.sourceforge.net/project/ventoy/v1.1.17/ventoy-1.1.17-windows.zip?viasf=1&fid=50b46f9b2e0283b2&e=1788175236&st=BasclpT77zzihL0kXXesmQ)
+* [Windows 10 ISO — German (Soon)](#)
 
 ---
 
 ## About
 
-If it isn't open source its shit.
+I build software, mess with systems, and like understanding how things actually work.
 
-I don't just use technology.
+Interested in programming, networking, automation, self-hosting, and infrastructure.
 
-I take it apart.
-
-I like understanding what happens behind the interface — how systems communicate, where they fail, and how everything works underneath.
-
-Currently exploring:
-
-* mid-level programming
-* networking
-* automation
-* self-hosted infrastructure
-* robotics
-* game networking
-* security concepts
-
-Mostly building things.
-Sometimes breaking things.
-Always learning.
+Most of the time I'm building something.
+Sometimes I'm fixing something I broke.
 
 ---
 
 ## `./skills`
 
-### Languages
+**Languages**
 
-```
+```text
 Python       ██████████
 Java         ████████
 C / C++      ███████
@@ -50,35 +43,23 @@ Rust         █████
 SQL          ████████
 ```
 
-### Systems
+**Systems**
 
-```
-Linux              ✓
-Docker             ✓
-Proxmox            ✓
-Networking         ✓
-Virtualization     ✓
-Servers            ✓
-Automation         ✓
+```text
+Linux
+Docker
+Proxmox
+Networking
+Virtualization
+Servers
+Automation
 ```
 
 ---
 
+## Homelab
 
-Interested in:
-
-* synchronization
-* latency
-* client/server architecture
-* network behavior
-
----
-
-## 🖥 Homelab
-
-My playground.
-
-```
+```text
 Proxmox
 Docker
 Linux
@@ -90,27 +71,25 @@ WireGuard
 Tailscale
 ```
 
-Running services.
-Breaking configurations.
-Fixing them again.
+Self-hosted services, random experiments and the occasional broken configuration.
 
 ---
 
-# Interests
+## Interests
 
-```
-> reverse engineering
-> cybersecurity
-> networking
-> operating systems
-> automation
-> embedded devices
-> AI
-> game engines
-> server infrastructure
+```text
+Networking
+Cybersecurity
+Reverse Engineering
+Operating Systems
+Automation
+Embedded Systems
+Robotics
+Game Networking
+AI
+Infrastructure
 ```
 
 ---
-
 
 `dxxns@localhost:~$ exit`
